@@ -1,0 +1,1 @@
+I have recently gotten into the [PICO-8](https://en.wikipedia.org/wiki/PICO-8), a retro fantasy console primarily made for game development using Lua. It inspired me to learn the math necessary for a simple wireframe 3D rendering engine using perspective projection.
